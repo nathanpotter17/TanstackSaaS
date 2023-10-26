@@ -36,3 +36,5 @@ const Page = () => {
 };
 
 export default Page;
+
+{ /* waiting on React Query 5 to be availiable with Next.js +tRPC, no way to handle data without use of onSuccess */ }
